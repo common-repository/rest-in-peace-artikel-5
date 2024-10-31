@@ -1,0 +1,32 @@
+#trauerbadge {
+	width: 250px;
+	height: 250px;
+	position: fixed;
+	top:0;
+	right: 0; 
+	z-index: 10000;
+}
+
+.trauer1 {
+	background: transparent url(trauerbadge.png);
+}
+
+.trauer2a {
+	background: transparent url(trauerbadge2a.png);
+}
+
+.trauer2b {
+	background: transparent url(trauerbadge2b.png);
+}
+
+.trauer3a {
+	background: transparent url(trauerbadge3a.png);
+}
+
+.trauer3b {
+	background: transparent url(trauerbadge3b.png);
+}
+
+.trauer4 {
+	background: transparent url(trauerbadge4.png);
+}
